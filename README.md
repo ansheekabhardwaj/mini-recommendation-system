@@ -1,5 +1,5 @@
 # mini recommendation system
-A mini Movie Recommendation system coded using cosine similarity formula
+A mini Movie Recommendation system coded in C++ using cosine similarity formula
 
 ## Project Overview
 
